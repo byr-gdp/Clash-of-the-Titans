@@ -1,0 +1,79 @@
+* {
+  margin:  0;
+  padding: 0;
+}
+
+html, 
+body {
+  width:   100%;
+  height:  100%;
+}
+
+.main,
+.part {
+  width:    100%;
+  height:   100%;
+  position: relative;
+}
+
+.main .part-0 {
+  background-color: #2C2D34;
+  color:            #FFFFFF;
+}
+
+.main .part-0 .title {
+  text-align:       center;
+  height:           200px;
+  line-height:      200px;
+  width:            100%;
+  position:         absolute;
+  top:              50%;
+  margin-top:       -100px;
+}
+
+.main .part-1 {
+  background-color: #E94822;
+}
+
+.main .part-2 {
+  background-color: #F2910A;
+}
+
+.main .part-3 {
+  background-color: #364F6B;
+}
+
+.main .part-4 {
+  background-color: #3FC1C9;
+}
+
+.main .part-5 {
+  background-color: #FC5185;
+}
+
+.main .part .avatar {
+  width:            200px;
+  height:           200px;
+  background-color: #FFFFFF;
+  border-radius:    50% 50%;
+  position:         absolute;
+  top:              50%;
+  margin-top:       -100px;
+  left:             100px;  
+}
+
+.main .part .introduce {
+  position: absolute;
+  right:    100px;
+  top:      40%;
+  width:    40%;
+  color:    #FFFFFF;
+}
+
+.main .part .introduce .introduce-name {
+  padding: 10px;
+}
+
+.main .part .introduce .introduce-detail {
+  padding: 5px 10px;
+} 
