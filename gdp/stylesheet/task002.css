@@ -1,0 +1,190 @@
+* {
+  margin:  0;
+  padding: 0;
+}
+
+body {
+  background-color: rgb(222, 222, 222);
+}
+
+h1 {
+  padding: 10px;
+}
+
+h2 {
+  color:     rgb(115, 115, 115);
+  font-size: 1.1rem;
+  padding:   10px;
+}
+
+p {
+  padding: 10px;
+}
+
+ul,
+ol {
+  margin-left: 30px;
+}
+
+article,
+section,
+aside {
+  padding: 10px;
+}
+
+/*header 相关*/
+header {
+  background-color: rgb(51, 51, 51);
+  color:            #FFFFFF;
+  height:           60px;
+}
+
+header h1 {
+  line-height: 40px;
+}
+
+header nav {
+  position:   absolute;
+  right:      0;
+  top:        20px;  
+}
+
+header nav ul li {
+  float:       left;
+  height:      20px;
+  line-height: 20px;
+  margin:      0 15px;
+}
+
+header nav ul li a {
+  color: #FFFFFF;
+}
+
+/*article 相关*/
+article {
+  background-color: #FFFFFF;
+  box-shadow:       1px 1px 5px gray;
+  margin:           20px;
+}
+
+article .content {
+  text-indent: 2rem;
+}
+
+article .article-pub {
+  color: rgb(115, 115, 115);
+}
+
+/*section 相关*/
+section {
+  background-color: #FFFFFF;
+  box-shadow:       1px 1px 5px gray;
+  margin:           20px;
+}
+
+section figure {
+  border:  1px solid #666666;
+  width:   300px;
+  padding: 10px;
+  margin:  10px;
+}
+
+section figure figcaption {
+  text-align: center;
+}
+
+section figure img {
+  width:   100%;
+  padding: 10px;
+}
+
+/*table 相关*/
+
+table {
+  width:   100%;
+  padding: 10px;
+}
+
+table thead {
+  background-color: #000000;
+  color:            #FFFFFF;
+}
+
+table .table-summary {
+  background-color: #888888;
+}
+
+table td {
+  border: 1px solid #000;
+}
+
+/*aside 相关*/
+aside {
+  background-color: #FFFFFF;
+  box-shadow:       1px 1px 5px gray;
+  margin:           20px;
+  padding-top:      10px;
+}
+
+aside h1 {
+  border-left: 3px solid #888888;
+  margin: 10px 10px;
+}
+
+aside label {
+  /*padding: 10px;*/
+}
+
+aside div {
+  padding: 6px;
+}
+
+aside .form-left {
+  width: 40%;
+  text-align: right;
+  display: inline-block;
+}
+
+aside .form-right {
+  margin-left: 10px;
+}
+
+aside .form-prompt {
+  display:     block;
+  position:    relative;
+  left:        40%;
+  color:       #888888;
+  font-size:   80%;
+  margin-left: 15px;
+  line-height: 150%;
+}
+
+aside .introduction-left {
+  display:    block;
+  width:      40%;
+  text-align: right;
+}
+
+aside .introduction-right {
+  position:    relative;
+  left:        40%;
+  top:         -1rem;
+  margin-left: 15px;
+}
+
+input[type="submit"] {
+  width:            100%;
+  background-color: rgb(51, 85, 208);
+  color:            #FFFFFF;
+  padding:          10px;
+  font-size:        1rem;
+  border-radius:    10px;
+}
+
+/*footer 相关*/
+footer {
+  background-color: #000000;
+  color:            #FFFFFF;
+  text-align:       center;
+  padding:          20px;
+}
