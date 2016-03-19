@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background-color: #eee;
+}
+
+.left,
+.middle,
+.right {
+  height:  300px;
+  border:  10px solid #000;
+  padding: 20px;
+}
+
+.left {
+  width:      200px;
+  box-sizing: border-box;
+  position:   absolute;
+  left:       0;
+}
+
+.right {
+  width:      120px;
+  box-sizing: border-box;
+  position:   absolute;
+  right:      0;
+}
+
+.middle {
+  width:    auto;
+  position: absolute;
+  left:     200px;
+  right:    120px;
+}
