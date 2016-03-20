@@ -15,3 +15,7 @@
 3. nav
 4. init margin padding
 5. normalize
+
+## task008
+
+1. nth-child & nth-of-type 用法
