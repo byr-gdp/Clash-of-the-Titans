@@ -1,0 +1,78 @@
+* {
+  box-sizing: border-box;
+}
+
+.grid-container {
+  width:     100%;
+  max-width: 960px;
+}
+
+.row:before,
+.row:after {
+  content: "";
+  display: table;
+  clear:   both;
+}
+
+.outline [class*='col-'] p {
+  outline: 1px solid #666;
+}
+
+[class*='col-'] {
+  float:            left;
+  min-height:       1px;
+  width:            8.33%;
+  padding:          10px;
+  background-color: #FFFFFF;
+  /*border:         1px solid #000000;*/
+}
+
+[class*='col-'] > p {
+  background-color: #EEEEEE;
+  text-align:       center;
+  color:            red;
+  height:           50px;
+  line-height:      50px;
+}
+
+.col-1 { width: 8.33%; }
+.col-2 { width: 16.66%; }
+.col-3 { width: 24.99%; }
+.col-4 { width: 33.32%; }
+.col-5 { width: 41.65%; }
+.col-6 { width: 50%; }
+.col-7 { width: 58.31%; }
+.col-8 { width: 66.66%; }
+.col-9 { width: 74.97%; }
+.col-10 { width: 83.33%; }
+.col-11 { width: 91.67%; }
+.col-12 { width: 100%; }
+
+@media all and (max-width: 768px) {
+  .col-1 { width: 16.6%;}
+  .col-2 { width: 66.66%; }
+  .col-3 { width: 33.3%; }
+  .col-4 { width: 50%; }
+  .col-5 { width: 50%; }
+  .col-6 { width: 33.3%; }
+  .col-7 { width: 100%; }
+  .col-8 { width: 100%; }
+  .col-9 { width: 100%; }
+  .col-10 { width: 100%; }
+  .col-11 { width: 100%; }
+  .col-12 { width: 100%; }
+
+  .row .col-4:last-of-type { 
+    width: 100%;
+  }
+
+  .row .col-6:last-of-type {
+    width: 24.99%;
+  }
+
+  /*.col-2*/
+  /*此处 nth-of-type & nth-child 存疑*/
+  .row .col-2:nth-of-type(4) {
+    width: 24.99%;
+  }
+}
