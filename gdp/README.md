@@ -27,3 +27,9 @@
 ### task008
 
 1. nth-child & nth-of-type 用法
+
+### task012
+
+1. :target
+2. element1~element2
+3. .button style
