@@ -1,0 +1,105 @@
+thead {
+  background-color: #000000;
+  color:            #FFFFFF;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: #FFFFFF;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #AAAAAA;
+}
+
+tbody tr:nth-child(-n+3) {
+  color: red;
+}
+
+.input-text {
+  width:      120px;
+  position:   relative;
+  left:       40px;
+  transition: all 1s ease;
+}
+
+.input-text:focus {
+  width: 200px;
+  left:  0px;
+}
+
+/*task012-3*/
+.carousel {
+  width:      200px;
+  height:     100px;
+  overflow:   hidden;
+  position:   relative;
+  border:     1px solid #000;
+  box-sizing: content-box;
+}
+
+.carousel ul {
+  display:    block;
+  padding:    0;
+  margin:     0;
+  position:   relative;
+  transition: left 1s ease;
+  left:       0;
+}
+
+.carousel ul li {
+  list-style:  none;
+  width:       200px;
+  height:      100px;
+  box-sizing:  border-box;
+  position:    absolute;
+  color:       #FFFFFF;
+  text-align:  center;
+  line-height: 100px;
+}
+
+li:first-child {
+  left:             0;
+  background-color: red;
+}
+
+li:nth-child(2) {
+  left:             200px;
+  background-color: green;
+
+}
+
+li:nth-child(3) {
+  left:             400px;
+  background-color: blue;
+}
+
+.carousel .button {
+  position: absolute;
+  right:    0;
+  bottom:   0;
+}
+
+.carousel .button a {
+  display:          inline-block;
+  text-decoration:  none;
+  width:            20px;
+  height:           20px;
+  line-height:      20px;
+  text-align:       center;
+  opacity:          0.8;
+  color:            #FFFFFF;
+  background-color: #BBBBBB;
+  margin:           1px;
+}
+
+#one:target ~ ul {
+  left:  0px;
+}
+
+#two:target ~ ul {
+  left: -200px;
+}
+
+#three:target ~ ul {
+  left: -400px;
+}

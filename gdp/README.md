@@ -6,7 +6,7 @@
 2. task002
 3. task003
 4. task008
-
+5. task010
 
 ## 第一阶段任务相关记录
 
@@ -27,3 +27,9 @@
 ### task008
 
 1. nth-child & nth-of-type 用法
+
+### task012
+
+1. :target
+2. element1~element2
+3. .button style
