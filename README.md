@@ -11,7 +11,7 @@ Powered by team GP(Geeker Prometheus)
 
 
 | 任务信息                     | 认领同学 | 完成情况 |
-| :-----------------------: | :--: | :---: |
+| :----------------------- | :--: | :---: |
 | 任务一：零基础 HTML 编码          |   刘彤阳   |   http://geeker-prometheus.github.io/LTY.   |
 | 任务二：零基础 HTML 及 CSS 编码（一） |   刘彤阳   |    http://geeker-prometheus.github.io/LTY.  |
 | 任务三：三栏式布局                | 龚大鹏  |      |
