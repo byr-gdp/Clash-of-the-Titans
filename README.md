@@ -17,7 +17,7 @@ Powered by team GP(Geeker Prometheus)
 | 任务三：三栏式布局                | 龚大鹏  |  https://github.com/Geeker-Prometheus/Clash-of-the-Titans/tree/master/gdp    |  |
 | 任务四：定位和居中问题              |  刘彤阳    |   http://geeker-prometheus.github.io/LTY.   |  |
 | 任务五：零基础 HTML 及 CSS 编码    |      |      |  |
-| 任务六：通过 HTML 及 CSS 模拟报纸排版 | 邓攀晓  |      |   |
+| 任务六：通过 HTML 及 CSS 模拟报纸排版 | 邓攀晓  |  https://github.com/Geeker-Prometheus/DPX/tree/master/task_1_6    |   |
 | 任务七：实现常见的技术产品官网的页面架构及样式  | 邓攀晓  |      |   |
 | 任务八：响应式网格（栅格化）           | 龚大鹏  |  https://github.com/Geeker-Prometheus/Clash-of-the-Titans/tree/master/gdp    |   |
 | 任务九：使用 HTML/CSS 实现一个复杂页面 | 邓攀晓  |      |   |
