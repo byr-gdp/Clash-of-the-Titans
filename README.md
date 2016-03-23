@@ -43,6 +43,6 @@ Powered by team GP(Geeker Prometheus)
 | 任务二十三：JavaScript和树（二）       |   |      |   |
 | 任务二十四：JavaScript和树（三）       |   |     |   |
 | 任务二十五：JavaScript和树（四）       |   |     |   |
-|  任务二十六，二十七，二十八：行星与飞船（一）       |   |     |   |
-|   任务二十九，三十，三十一，三十二：表单（一）       |  刘彤阳   |   http://geeker-prometheus.github.io/LTY.     |   |
-| 任务三十三,三十四，三十五，三十六：听指令的小方块（一）       |   |     |   |
+|  任务二十六，二十七，二十八：行星与飞船       |   |     |   |
+|   任务二十九，三十，三十一，三十二：表单       |  刘彤阳   |   http://geeker-prometheus.github.io/LTY.     |   |
+| 任务三十三,三十四，三十五，三十六：听指令的小方块       |   |     |   |
