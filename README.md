@@ -23,18 +23,18 @@ Powered by team GP(Geeker Prometheus)
 | 任务八：响应式网格（栅格化）           | 龚大鹏  |  https://github.com/Geeker-Prometheus/Clash-of-the-Titans/tree/master/gdp    |   |
 | 任务九：使用 HTML/CSS 实现一个复杂页面 | 邓攀晓  |      |   |
 | 任务十：Flexbox 布局练习         | 龚大鹏  |  https://github.com/Geeker-Prometheus/Clash-of-the-Titans/tree/master/gdp    |   |
-| 任务十一：移动 Web 页面布局实践       | 邓攀晓  |      |   
-| 任务十二：学习 CSS3 的新特性        | 龚大鹏  | https://github.com/Geeker-Prometheus/Clash-of-the-Titans/tree/master/gdp     |   
+| 任务十一：移动 Web 页面布局实践       | 邓攀晓  |      |   |
+| 任务十二：学习 CSS3 的新特性        | 龚大鹏  | https://github.com/Geeker-Prometheus/Clash-of-the-Titans/tree/master/gdp     |   |
 
 ### 第二阶段任务
 
 | 任务信息                     | 认领同学 | 完成情况 | Review |
 | :----------------------- | :--: | :---: |:---:|
-| 任务十三：面向零基础的JavaScript代码编写（一）          |     |     |  |
-|    任务十四：面向零基础的JavaScript代码编写（二） |     |    |  |
-| 任务十五：面向零基础的JavaScript代码编写（三）             |  |     |  |
-|    任务十六：面向零基础的JavaScript代码编写（四）            |      |      |  |
-| 任务十七：面向零基础的JavaScript代码编写（五）    |      |      |  |
+| 任务十三：面向零基础的JavaScript代码编写（一）          |     刘彤阳   |   http://geeker-prometheus.github.io/LTY.   |  |
+|    任务十四：面向零基础的JavaScript代码编写（二） |     刘彤阳   |   http://geeker-prometheus.github.io/LTY.     |  |
+| 任务十五：面向零基础的JavaScript代码编写（三）             |  刘彤阳   |   http://geeker-prometheus.github.io/LTY.     |  |
+|    任务十六：面向零基础的JavaScript代码编写（四）            |     刘彤阳   |   http://geeker-prometheus.github.io/LTY.      |  |
+| 任务十七：面向零基础的JavaScript代码编写（五）    |     刘彤阳   |   http://geeker-prometheus.github.io/LTY.      |  |
 |  任务十八：基础JavaScript练习（一） |   |     |   |
 |  任务十九：基础JavaScript练习（二）  |   |      |   |
 | 任务二十：基础JavaScript练习（三）           |   |     |   |
@@ -44,5 +44,5 @@ Powered by team GP(Geeker Prometheus)
 | 任务二十四：JavaScript和树（三）       |   |     |   |
 | 任务二十五：JavaScript和树（四）       |   |     |   |
 |  任务二十六，二十七，二十八：行星与飞船（一）       |   |     |   |
-|   任务二十九，三十，三十一，三十二：表单（一）       |   |     |   |
+|   任务二十九，三十，三十一，三十二：表单（一）       |  刘彤阳   |   http://geeker-prometheus.github.io/LTY.     |   |
 | 任务三十三,三十四，三十五，三十六：听指令的小方块（一）       |   |     |   |
