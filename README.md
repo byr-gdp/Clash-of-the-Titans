@@ -10,6 +10,7 @@ Powered by team GP(Geeker Prometheus)
 
 
 *** 第一阶段任务
+
 | 任务信息                     | 认领同学 | 完成情况 | Review |
 | :----------------------- | :--: | :---: |:---:|
 | 任务一：零基础 HTML 编码          |   刘彤阳   |   http://geeker-prometheus.github.io/LTY.   |  |
@@ -26,6 +27,7 @@ Powered by team GP(Geeker Prometheus)
 | 任务十二：学习 CSS3 的新特性        | 龚大鹏  | https://github.com/Geeker-Prometheus/Clash-of-the-Titans/tree/master/gdp     |   |
 
 *** 第二阶段任务
+
 | 任务信息                     | 认领同学 | 完成情况 | Review |
 | :----------------------- | :--: | :---: |:---:|
 | 任务十三：面向零基础的JavaScript代码编写（一）          |     |     |  |
@@ -40,5 +42,7 @@ Powered by team GP(Geeker Prometheus)
 | 任务二十二：JavaScript和树（一）        |  |      |   |
 | 任务二十三：JavaScript和树（二）       |   |      |   |
 | 任务二十四：JavaScript和树（三）       |   |     |   |
-| 任务二十四：JavaScript和树（三）       |   |     |   |
-| 任务二十四：JavaScript和树（三）       |   |     |   |
+| 任务二十五：JavaScript和树（四）       |   |     |   |
+|  任务二十六，二十七，二十八：行星与飞船（一）       |   |     |   |
+|   任务二十九，三十，三十一，三十二：表单（一）       |   |     |   |
+| 任务三十三,三十四，三十五，三十六：听指令的小方块（一）       |   |     |   |
