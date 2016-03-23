@@ -23,8 +23,8 @@ Powered by team GP(Geeker Prometheus)
 | 任务八：响应式网格（栅格化）           | 龚大鹏  |  https://github.com/Geeker-Prometheus/Clash-of-the-Titans/tree/master/gdp    |   |
 | 任务九：使用 HTML/CSS 实现一个复杂页面 | 邓攀晓  |      |   |
 | 任务十：Flexbox 布局练习         | 龚大鹏  |  https://github.com/Geeker-Prometheus/Clash-of-the-Titans/tree/master/gdp    |   |
-| 任务十一：移动 Web 页面布局实践       | 邓攀晓  |      |   |
-| 任务十二：学习 CSS3 的新特性        | 龚大鹏  | https://github.com/Geeker-Prometheus/Clash-of-the-Titans/tree/master/gdp     |   |
+| 任务十一：移动 Web 页面布局实践       | 邓攀晓  |      |   
+| 任务十二：学习 CSS3 的新特性        | 龚大鹏  | https://github.com/Geeker-Prometheus/Clash-of-the-Titans/tree/master/gdp     |   
 
 ### 第二阶段任务
 
