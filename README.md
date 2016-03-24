@@ -35,10 +35,10 @@ Powered by team GP(Geeker Prometheus)
 | 任务十五：面向零基础的JavaScript代码编写（三）             |  刘彤阳   |   http://geeker-prometheus.github.io/LTY.     |  |
 |    任务十六：面向零基础的JavaScript代码编写（四）            |     刘彤阳   |   http://geeker-prometheus.github.io/LTY.      |  |
 | 任务十七：面向零基础的JavaScript代码编写（五）    |     刘彤阳   |   http://geeker-prometheus.github.io/LTY.      |  |
-|  任务十八：基础JavaScript练习（一） |   |     |   |
-|  任务十九：基础JavaScript练习（二）  |   |      |   |
-| 任务二十：基础JavaScript练习（三）           |   |     |   |
-|  任务二十一：基础JavaScript练习（四） |   |      |   |
+|  任务十八：基础JavaScript练习（一） | 龚大鹏 |     |   |
+|  任务十九：基础JavaScript练习（二） | 龚大鹏  |      |   |
+| 任务二十：基础JavaScript练习（三） | 龚大鹏  |     |   |
+|  任务二十一：基础JavaScript练习（四） | 龚大鹏 |      |   |
 | 任务二十二：JavaScript和树（一）        |  |      |   |
 | 任务二十三：JavaScript和树（二）       |   |      |   |
 | 任务二十四：JavaScript和树（三）       |   |     |   |
